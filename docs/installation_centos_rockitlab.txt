@@ -1,4 +1,5 @@
 TensorFlow (tf) instructions for RockIT Lab CentOS
+Steve Quirolgico
 
 Dependencies:
 * Python 2.7-3.x
