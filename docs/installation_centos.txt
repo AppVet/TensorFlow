@@ -1,0 +1,25 @@
+TensorFlow (tf) instructions for RockIT Lab CentOS
+
+Dependencies:
+* Python 2.7-3.x
+
+
+
+Follow instructions for CentOS 7 at:
+
+https://gist.github.com/thoolihan/28679cd8156744a62f88
+
+
+To run example tf files, change directory to: 
+
+/home/rockitlabai/git/TensorFlow
+
+Type 'ls' to view tf python files. To run a tf python file, use:
+
+#python <filename.py>
+
+
+
+
+
+
